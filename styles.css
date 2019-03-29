@@ -73,3 +73,6 @@
      flex-direction: column;
    }
 }
+img#bannerImage {
+  max-width:100%;
+}
